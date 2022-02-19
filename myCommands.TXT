@@ -5,5 +5,11 @@ for release 2 stories
 1 Guru working on Inbox
 2.Chetan working on compose
 
+<<<<<<< HEAD
+2 release 
+1. Guru working on second release
+
+=======
 release 2
 1. My first task on release 2
+>>>>>>> 6bea861cd964202236000324871761ef037defc1
